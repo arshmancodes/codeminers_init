@@ -1,8 +1,8 @@
 name: codeminers_init
 description: This is the Helping packages for all the methods and techniques used by CodeMiners
-version: 0.0.1
+version: 0.0.3
 homepage: https://www.codeminer.co
-repository: https://www.codeminer.co
+repository: https://github.com/arshmancodes/codeminers_init
 
 environment:
   sdk: '>=2.19.2 <3.0.0'

@@ -1,7 +1,5 @@
 library codeminers_init;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
+class Web3 {
+  String checking = "First Publish to Pub Dev";
 }
